@@ -1,7 +1,5 @@
 # Speed-reducer-spur-gear-for-conveyor-belt
 
-# Design, Mathematical Computation, and SolidWorks Simulation of a Speed Reducer Spur Gearbox
-
 ## 1. Abstract
 This project covers the end-to-end mechanical design, mathematical computation, and 3D CAD simulation of a high-reduction spur gearbox. The system was designed from scratch using analytical equations aligned with industrial standards and subsequently modeled and validated within **SolidWorks**. 
 
